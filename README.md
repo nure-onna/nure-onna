@@ -1,10 +1,10 @@
 <div align="center">
 
-# Olá, eu sou a Nureonna 👋
+# Hi, I’m Nureonna 👋
 
-### Desenvolvedora em formação · Foco em Fullstack
+### Developer in training · Focused on Full-Stack Development
 
-Construindo minha jornada com projetos web, mobile e automação em Python.
+Building my skills through web, mobile, and Python automation projects.
 
 [![GitHub](https://img.shields.io/badge/GitHub-nure--onna-181717?style=for-the-badge&logo=github)](https://github.com/nure-onna)
 
@@ -18,34 +18,34 @@ I’m focusing my studies on **full-stack development**, exploring how user inte
 
 I learn by building projects and exploring web and mobile development. Here, I share my progress, my coding experiences, and the challenges I encounter along the way.
 
-## Tecnologias nos meus projetos
+## Technologies I use in my projects
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,html,git,github&theme=dark" alt="Python, Flutter, Dart, HTML, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,html,git,github&theme=dark" alt="Python, Flutter, Dart, HTML, Git, and GitHub" />
 </p>
 
-- **Python:** automação, processamento de imagens e integração com APIs.
-- **Flutter e Dart:** desenvolvimento de aplicações para Android e web.
-- **HTML:** presente nos meus projetos web.
-- **Git e GitHub:** organização do código e histórico dos projetos.
+- **Python:** automation, image processing, and API integration.
+- **Flutter and Dart:** application development for Android and the web.
+- **HTML:** used in my web projects.
+- **Git and GitHub:** code organization and version control.
 
-## Projetos em destaque
+## Featured projects
 
-| Projeto | O que você encontra | Tecnologias |
+| Project | What you’ll find | Technologies |
 | --- | --- | --- |
-| [Condo Market Local](https://github.com/nure-onna/condo-market-local) | Marketplace acadêmico para condomínios, com aplicação para Android e web. | Flutter · Dart |
-| [Resolve-Captcha](https://github.com/nure-onna/Resolve-Captcha) | Projeto com OCR, processamento de imagens e automação de navegador. | Python · Playwright · Tesseract |
+| [Condo Market Local](https://github.com/nure-onna/condo-market-local) | An academic marketplace project for condominium communities, with an app for Android and the web. | Flutter · Dart |
+| [Resolve-Captcha](https://github.com/nure-onna/Resolve-Captcha) | A project exploring OCR, image processing, and browser automation. | Python · Playwright · Tesseract |
 
-## Meu próximo passo
+## My next step
 
-Meu objetivo é evoluir como desenvolvedora Fullstack, aprofundando a conexão entre **frontend, backend e bancos de dados**, com atenção à organização do código e à experiência de quem usa a aplicação.
+My goal is to grow as a full-stack developer, deepening my understanding of how **frontend, backend, and databases** work together, while focusing on code organization and user experience.
 
-Quero transformar cada projeto em uma oportunidade de aprender, documentar decisões e construir soluções mais completas.
+I want to turn each project into an opportunity to learn, document decisions, and build more complete solutions.
 
 ---
 
 <div align="center">
 
-**Aprendendo, construindo e evoluindo — um projeto de cada vez.**
+**Learning, building, and growing — one project at a time.**
 
 </div>
