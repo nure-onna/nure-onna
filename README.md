@@ -12,11 +12,11 @@ Construindo minha jornada com projetos web, mobile e automação em Python.
 
 ---
 
-## Sobre mim
+## About me
 
-Estou direcionando meus estudos para o desenvolvimento **Fullstack**, com interesse em entender como interfaces, APIs e dados se conectam para formar uma aplicação completa.
+I’m focusing my studies on **full-stack development**, exploring how user interfaces, APIs, and data work together to build complete applications.
 
-Aprendo na prática, desenvolvendo projetos e explorando aplicações web e mobile. Aqui compartilho meu progresso, minhas experiências com código e os desafios que fazem parte desse caminho.
+I learn by building projects and exploring web and mobile development. Here, I share my progress, my coding experiences, and the challenges I encounter along the way.
 
 ## Tecnologias nos meus projetos
 
