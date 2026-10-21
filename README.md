@@ -21,7 +21,7 @@ I learn by building projects and exploring web and mobile development. Here, I s
 ## Technologies I use in my projects
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,html,git,github&theme=dark" alt="Python, Flutter, Dart, HTML, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,html,git,github&theme=dark" alt="Python, Flutter, Dart, Angular, HTML, CSS, Javascript, Git, and GitHub" />
 </p>
 
 - **Python:** automation, image processing, and API integration.
