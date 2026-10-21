@@ -21,12 +21,13 @@ I learn by building projects and exploring web and mobile development. Here, I s
 ## Technologies I use in my projects
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,html,git,github&theme=dark" alt="Python, Flutter, Dart, Angular, HTML, CSS, Javascript, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,angular,html,css,js,git,github&theme=dark" alt="Python, Flutter, Dart, Angular, HTML, CSS, JavaScript, Git, and GitHub" />
 </p>
 
 - **Python:** automation, image processing, and API integration.
 - **Flutter and Dart:** application development for Android and the web.
-- **HTML:** used in my web projects.
+- **Angular:** learning to build component-based web applications.
+- **HTML, CSS, and JavaScript:** structure, styling, and interactivity for web interfaces.
 - **Git and GitHub:** code organization and version control.
 
 ## Featured projects
@@ -48,4 +49,4 @@ I want to turn each project into an opportunity to learn, document decisions, an
 
 **Learning, building, and growing — one project at a time.**
 
-</div>
+</div>   
